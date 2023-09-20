@@ -1,6 +1,6 @@
 # SwiggyFunnelAnalysis
-- Business Case: Swiggy
-  Swiggy is one of the largest food eCommerce platforms in the country. Every day more than 1 million users are transacting on the platform.
+- Business Case:
+- Swiggy is one of the largest food e-commerce platforms in the country. Every day more than 1 million users are transacting on the platform.
 Let’s say you are a growth and strategy analyst of Swiggy and you need to generate insight on the company’s performance in 2019.
 For this, you are going to use the ‘Funnel Case Study Data’ workbook which has 3 worksheets. You can find the details of the sheets below:
 - Session Details sheet has date-wise session count. You can find listing sessions, menu sessions, cart sessions, payment sessions, and order sessions day over day
